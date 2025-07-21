@@ -5,7 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
+[![MongoDB Atlas + Compass](https://img.shields.io/badge/MongoDB-Atlas%20%2B%20Compass-green?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
 [![Django](https://img.shields.io/badge/Django-4.x-darkgreen?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Serverless-orange?logo=amazon-aws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/lambda/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
