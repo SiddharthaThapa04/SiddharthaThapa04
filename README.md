@@ -28,7 +28,7 @@
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Syddhartha69)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SiddharthaThapa04)
 [![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
 
 ---
@@ -77,7 +77,7 @@
 
 - 📧 [Email](mailto:syddhartha.thapa46@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/syddhartha/)  
-- 💻 [GitHub](https://github.com/Syddhartha69)
+- 💻 [GitHub](https://github.com/SiddharthaThapa04)
 
 ---
 
@@ -85,4 +85,4 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Syddhartha69&style=flat-square&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=SiddharthaThapa04&style=flat-square&color=blue)
