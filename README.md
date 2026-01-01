@@ -80,7 +80,7 @@ _May 2023 – May 2024_
 <p>
   <img src="https://img.shields.io/badge/English-Fluent-2563EB?style=flat">
   <img src="https://img.shields.io/badge/Nepali-Native-16A34A?style=flat">
-  <img src="https://img.shields.io/badge/Hindi-Professional-F97316?style=flat">
+  <img src="https://img.shields.io/badge/Hindi-Fluent-F97316?style=flat">
 </p>
 
 ---
