@@ -1,88 +1,119 @@
-# 👋 Hey there, I'm **Siddhartha Thapa**
+<div align="center">
 
-## 🚀 Full-Stack Developer  
-**Python • React • MongoDB • AWS Lambda**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+Siddhartha+Thapa 👋🏻;Full-Stack+Developer;Building+Clean+Web+Experiences" />
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![MongoDB Atlas + Compass](https://img.shields.io/badge/MongoDB-Atlas%20%2B%20Compass-green?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
-[![Django](https://img.shields.io/badge/Django-4.x-darkgreen?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
-[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-Serverless-orange?logo=amazon-aws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/lambda/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br/>
 
----
+<p>
+  <strong>Python • React • TypeScript • Next.js • MongoDB • AWS Lambda • Docker</strong>
+</p>
 
-## 🧠 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-4F46E5?logo=python&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/React-18-22D3EE?logo=react&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/TypeScript-Exploring-2563EB?logo=typescript&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Next.js-Framework-000000?logo=next.js&style=flat">
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-16A34A?logo=mongodb&style=flat">
+  <img src="https://img.shields.io/badge/AWS-Lambda-F97316?logo=amazon-aws&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Docker-Containerizing-0EA5E9?logo=docker&logoColor=white&style=flat">
+</p>
 
-[![Next.js](https://img.shields.io/badge/Next.js-React--Framework-black?logo=next.js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
-[![Flask](https://img.shields.io/badge/Flask-Microframework-lightgrey?logo=flask&logoColor=black&style=for-the-badge)](https://flask.palletsprojects.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Exploring-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-Containerizing-blue?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+</div>
 
 ---
 
-## 🛠️ Development Tools
+## 🧩 About Me
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SiddharthaThapa04)
-[![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
+I’m a **Full-Stack Developer** who enjoys building scalable web applications, crafting clean UI experiences, and solving real-world problems through code.  
+I’ve worked across **frontend, backend, QA, and mentoring**, giving me a well-rounded engineering mindset.
+
+---
+
+## 🛠️ Tooling I Use Daily
+
+<p>
+
+  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-111827?style=flat">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-2563EB?logo=visual-studio-code&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F97316?logo=git&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/GitHub-Projects-000000?logo=github&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-E11D48?logo=figma&logoColor=white&style=flat">
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 🖥️ Software Engineer Intern — *[SkillRank](https://skillrank.io/)*  
-📍 *Remote, USA* | 🗓 *Jan 2025 – Mar 2025*  
-→ Built and maintained scalable web components using React and Python in an Agile team.
+**🖥 Software Engineer Intern — SkillRank**  
+_Remote, USA • Jan 2025 – Mar 2025_  
+→ Built scalable components using **React & Python** in an Agile environment.
 
-### 🧪 QA Engineer & Frontend Intern — *[Greencom Media](https://greenfoundationnepal.com/)*  
-🗓 *Oct 2024 – Feb 2025*  
-→ Enhanced UI performance, fixed bugs, and gained experience in React & Next.js.
+**🧪 QA Engineer & Frontend Intern — Greencom Media**  
+_Oct 2024 – Feb 2025_  
+→ Improved UI performance and fixed production bugs using **React & Next.js**.
 
-### 🧑‍🏫 IT Mentor — *[Siddhartha Vanasthali Institute](https://svi.edu.np/)*  
-🗓 *Dec 2024 – Mar 2025*  
-→ Mentored students in HTML, CSS, JavaScript & Scratch through hands-on sessions.
+**🧑‍🏫 IT Mentor — Siddhartha Vanasthali Institute**  
+_Dec 2024 – Mar 2025_  
+→ Mentored students in **HTML, CSS, JavaScript & Scratch**.
 
-### ☎️ Customer Service Representative — *[ING Skill Academy](https://ingskill.com/)*  
-🗓 *May 2023 – May 2024*  
-→ Supported users with empathy, solved real-world problems, and improved user satisfaction.
+**☎️ Customer Service Representative — ING Skill Academy**  
+_May 2023 – May 2024_  
+→ Delivered user-focused solutions and improved customer satisfaction.
 
 ---
 
 ## 🎓 Education
 
-- **BSc (Hons) Computing** — [Islington College](https://islington.edu.np/) *(2022 – 2025)*  
-- [Global College of Management](https://web.globalcollege.edu.np/) *(2019 – 2021)*  
-- [Bagmati Boarding School](https://bagmatischool.edu.np/) *(Until 2019)*
+- **BSc (Hons) Computing** — *Islington College* (2022 – 2025)  
+- *Global College of Management* (2019 – 2021)  
+- *Bagmati Boarding School* (Until 2019)
 
 ---
 
-## 📚 Trainings & Certifications
+## 📚 Training
 
-- **Python with Django** — IT Training Nepal *(Jan – Mar 2022)*
+- **Python with Django** — IT Training Nepal *(2022)*
 
 ---
 
 ## 🌍 Languages
 
-- English 🇬🇧 | Nepali 🇳🇵 | Hindi 🇮🇳
+<p>
+  <img src="https://img.shields.io/badge/English-Fluent-2563EB?style=flat">
+  <img src="https://img.shields.io/badge/Nepali-Native-16A34A?style=flat">
+  <img src="https://img.shields.io/badge/Hindi-Professional-F97316?style=flat">
+</p>
 
 ---
 
-## 📬 Let’s Connect
+<div align="center">
 
-- 📧 [Email](mailto:syddhartha.thapa46@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/syddhartha/)  
-- 💻 [GitHub](https://github.com/SiddharthaThapa04)
+<h3>📬 Let’s Connect</h3>
+
+<p>
+  Open to collaboration, internships, and full-time opportunities.<br/>
+  Feel free to reach out — I usually respond fast.
+</p>
+
+<br/>
+
+<a href="mailto:siddhartha.thapa0329@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?logo=gmail&logoColor=white&style=flat">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/syddhartha/">
+  <img src="https://img.shields.io/badge/LinkedIn-Siddhartha%20Thapa-0A66C2?logo=linkedin&logoColor=white&style=flat">
+</a>
+
+</div>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+<div align="center">
 
----
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — Cory House
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=SiddharthaThapa04&style=flat-square&color=blue)
+<img src="https://komarev.com/ghpvc/?username=SiddharthaThapa04&style=flat&color=4F46E5">
+
+</div>
