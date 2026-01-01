@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+Siddhartha+Thapa 👋🏻;Full-Stack+Developer;Building+Clean+Web+Experiences" />
+<img src="./assets/banner.svg" alt="Hi, I’m Siddhartha Thapa" width="600" />
 
 <br/>
 
