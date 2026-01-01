@@ -1,11 +1,12 @@
 <div align="center">
-<img src="./assets/banner.svg" alt="Hi, I’m Siddhartha Thapa" width="600" />
+
+# Hi, I'm Siddhartha Thapa 👋🏻
+
+### Full-Stack Developer | Building Clean Web Experiences
 
 <br/>
 
-<p>
-  <strong>Python • React • TypeScript • Next.js • MongoDB • AWS Lambda • Docker</strong>
-</p>
+**Python • React • TypeScript • Next.js • MongoDB • AWS Lambda • Docker**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-4F46E5?logo=python&logoColor=white&style=flat">
@@ -23,15 +24,14 @@
 
 ## 🧩 About Me
 
-I’m a **Full-Stack Developer** who enjoys building scalable web applications, crafting clean UI experiences, and solving real-world problems through code.  
-I’ve worked across **frontend, backend, QA, and mentoring**, giving me a well-rounded engineering mindset.
+I'm a **Full-Stack Developer** who enjoys building scalable web applications, crafting clean UI experiences, and solving real-world problems through code.  
+I've worked across **frontend, backend, QA, and mentoring**, giving me a well-rounded engineering mindset.
 
 ---
 
 ## 🛠️ Tooling I Use Daily
 
 <p>
-
   <img src="https://img.shields.io/badge/Cursor-AI%20Editor-111827?style=flat">
   <img src="https://img.shields.io/badge/VS%20Code-Editor-2563EB?logo=visual-studio-code&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Git-Version%20Control-F97316?logo=git&logoColor=white&style=flat">
@@ -43,19 +43,19 @@ I’ve worked across **frontend, backend, QA, and mentoring**, giving me a well-
 
 ## 💼 Experience
 
-**🖥 Software Engineer Intern — SkillRank**  
+**▸ Software Engineer Intern — [SkillRank](https://skillrank.io/)**  
 _Remote, USA • Jan 2025 – Mar 2025_  
 → Built scalable components using **React & Python** in an Agile environment.
 
-**🧪 QA Engineer & Frontend Intern — Greencom Media**  
+**▸ QA Engineer & Frontend Intern — [Greencom Media](https://greenfoundationnepal.com/)**  
 _Oct 2024 – Feb 2025_  
 → Improved UI performance and fixed production bugs using **React & Next.js**.
 
-**🧑‍🏫 IT Mentor — Siddhartha Vanasthali Institute**  
+**▸ IT Mentor — [Siddhartha Vanasthali Institute](https://svi.edu.np/)**  
 _Dec 2024 – Mar 2025_  
 → Mentored students in **HTML, CSS, JavaScript & Scratch**.
 
-**☎️ Customer Service Representative — ING Skill Academy**  
+**▸ Customer Service Representative — [ING Skill Academy](https://ingskill.com/)**  
 _May 2023 – May 2024_  
 → Delivered user-focused solutions and improved customer satisfaction.
 
@@ -63,15 +63,15 @@ _May 2023 – May 2024_
 
 ## 🎓 Education
 
-- **BSc (Hons) Computing** — *Islington College* (2022 – 2025)  
-- *Global College of Management* (2019 – 2021)  
-- *Bagmati Boarding School* (Until 2019)
+- **BSc (Hons) Computing** — [*Islington College*](https://islington.edu.np/) (2022 – 2025)  
+- [*Global College of Management*](https://globalcollege.edu.np/) (2019 – 2021)  
+- [*Bagmati Boarding School*](https://bagmatischool.edu.np/home/) (Until 2019)
 
 ---
 
 ## 📚 Training
 
-- **Python with Django** — IT Training Nepal *(2022)*
+- **Python with Django** — [IT Training Nepal](https://www.ittrainingnepal.com/) *(2022)*
 
 ---
 
@@ -87,12 +87,10 @@ _May 2023 – May 2024_
 
 <div align="center">
 
-<h3>📬 Let’s Connect</h3>
+### 📬 Let's Connect
 
-<p>
-  Open to collaboration, internships, and full-time opportunities.<br/>
-  Feel free to reach out — I usually respond fast.
-</p>
+Open to collaboration, internships, and full-time opportunities.  
+Feel free to reach out — I usually respond fast.
 
 <br/>
 
@@ -110,7 +108,7 @@ _May 2023 – May 2024_
 
 <div align="center">
 
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> *"Code is like humor. When you have to explain it, it's bad."*  
 > — Cory House
 
 <img src="https://komarev.com/ghpvc/?username=SiddharthaThapa04&style=flat&color=4F46E5">
