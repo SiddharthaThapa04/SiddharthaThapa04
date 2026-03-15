@@ -41,40 +41,6 @@ I've worked across **frontend, backend, QA, and mentoring**, giving me a well-ro
 
 ---
 
-## 💼 Experience
-
-**▸ Software Engineer Intern — [SkillRank](https://skillrank.io/)**  
-_Remote, USA • Jan 2025 – Mar 2025_  
-→ Built scalable components using **React & Python** in an Agile environment.
-
-**▸ QA Engineer & Frontend Intern — [Greencom Media](https://greenfoundationnepal.com/)**  
-_Oct 2024 – Feb 2025_  
-→ Improved UI performance and fixed production bugs using **React & Next.js**.
-
-**▸ IT Mentor — [Siddhartha Vanasthali Institute](https://svi.edu.np/)**  
-_Dec 2024 – Mar 2025_  
-→ Mentored students in **HTML, CSS, JavaScript & Scratch**.
-
-**▸ Customer Service Representative — [ING Skill Academy](https://ingskill.com/)**  
-_May 2023 – May 2024_  
-→ Delivered user-focused solutions and improved customer satisfaction.
-
----
-
-## 🎓 Education
-
-- **BSc (Hons) Computing** — [*Islington College*](https://islington.edu.np/) (2022 – 2025)  
-- [*Global College of Management*](https://globalcollege.edu.np/) (2019 – 2021)  
-- [*Bagmati Boarding School*](https://bagmatischool.edu.np/home/) (Until 2019)
-
----
-
-## 📚 Training
-
-- **Python with Django** — [IT Training Nepal](https://www.ittrainingnepal.com/) *(2022)*
-
----
-
 ## 🌍 Languages
 
 <p>
